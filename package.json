@@ -1,0 +1,50 @@
+{
+  "name": "nekonight-",
+  "displayName": "nekonight ",
+  "description": "✨ Looking for a theme that fits your vibe? Whether you're into dark mode, light mode, or something in between, this NekoNight has got you covered. For snappy performance, it's a buffet of color schemes for every taste and mood. 🍭",
+  "version": "0.0.1",
+  "publisher": "BrunoCiccarino",
+  "author": "Bruno Ciccarino",
+  "icon": "icon.png",
+  "bugs": {
+    "url": "https://github.com/BrunoCiccarino/nekonight-vscode/issues"
+  },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/BrunoCiccarino/nekonight-vscode"
+  },
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "retro",
+    "80s",
+    "nekonight",
+    "one dark",
+    "onedark",
+    "one dark pro",
+    "onedark pro",
+    "theme",
+    "atom",
+    "shades of purple",
+    "Shades Of Purple",
+    "tokyo night",
+    "tokyonight",
+    "zenburn",
+    "zen",
+    "dark",
+    "low contrast"
+],
+  "contributes": {
+    "themes": [
+      {
+        "label": "nekonight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nekonight-color-theme.json"
+      }
+    ]
+  }
+}
