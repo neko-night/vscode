@@ -1,5 +1,7 @@
 # nekonight
 
+![logo](./icon.png)
+
 Looking for a theme that fits your vibe? Whether you're into dark mode, light mode, or something in between, this NekoNight has got you covered. Written for snappy performance, it's a buffet of color schemes for every taste and mood. 🍭 Want to boost your productivity and look good while coding? We've got countless options to keep you inspired and in the zone. 🚀✨ If you love it (and we know you will), hit that ⭐ on our official repo. Your support means the world! 🌍
 
 ### 🚀 Nekonight 
@@ -12,6 +14,8 @@ Looking for a theme that fits your vibe? Whether you're into dark mode, light mo
     <td width="50%">
       <img src="./img/nekonight-vscode-1.jpg" />
     </td>
+    </tr>
+    <tr>
     <td width="50%">
       <img src="./img/nekonight-vscode-2.jpg" />
     </td>
