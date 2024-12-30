@@ -44,6 +44,11 @@
         "label": "nekonight",
         "uiTheme": "vs-dark",
         "path": "./themes/nekonight-color-theme.json"
+      },
+      {
+        "label": "nekonight storm",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nekonight-storm.json"
       }
     ]
   }
