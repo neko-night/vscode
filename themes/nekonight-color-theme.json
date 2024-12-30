@@ -80,10 +80,13 @@
 		"tab.activeBackground": "#2a2139",
 		"tab.inactiveBackground": "#1b1524",
 		"tab.border": "#2a2139",
+		"editor.snippetTabstopHighlightBackground": "#6943ff62",
+		"editor.snippetTabstopHighlightBorder": "#6943ff62",
+		"editor.snippetFinalTabstopHighlightBackground": "#6943ff62",
+		"editor.snippetFinalTabstopHighlightBorder": "#6943ff62",
 		"editorGroupHeader.border": "#1d1d21",
 		"editorGroupHeader.tabsBackground": "#2a2139",
-		"editorGroupHeader.tabsBorder": "#ff787800",
-
+		"editorGroupHeader.tabsBorder": "#ff787800"
 	},
 	"tokenColors": [
 		{
