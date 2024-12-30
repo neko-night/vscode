@@ -1,5 +1,10 @@
 # nekonight
 
+![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/BrunoCiccarino.nekonight?style=for-the-badge&logo=vscode&color=%23bae1ff)
+![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/BrunoCiccarino.nekonight?style=for-the-badge&color=%23ffb3ba)
+![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/stars/BrunoCiccarino.nekonight?style=for-the-badge&color=%09%2368c4af)
+
+
 ![logo](./icon.png)
 
 Looking for a theme that fits your vibe? Whether you're into dark mode, light mode, or something in between, this NekoNight has got you covered. Written for snappy performance, it's a buffet of color schemes for every taste and mood. 🍭 Want to boost your productivity and look good while coding? We've got countless options to keep you inspired and in the zone. 🚀✨ If you love it (and we know you will), hit that ⭐ on our official repo. Your support means the world! 🌍
