@@ -2,7 +2,7 @@
 <h1 align="center">
   <br>
   <a href="https://marketplace.visualstudio.com/items?itemName=jdinhlife.gruvbox">
-    <img src="./icon.png" width="400" height="400">
+    <img src="./icon.png" width="600" height="400">
   </a>
   <br>
   Nekonight
