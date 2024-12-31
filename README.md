@@ -52,8 +52,8 @@ Looking for a theme that fits your vibe? Whether you're into dark mode, light mo
 // Theme Setup.
 "workbench.colorTheme": "nekonight",
 "workbench.iconTheme": "vscode-icons",
-"editor.fontFamily": "Operator Mono, Menlo, Monaco, 'Courier New', monospace",
-"terminal.integrated.fontFamily": "'Operator Mono', 'Inconsolata for Powerline', monospace",
+"editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace",
+"terminal.integrated.fontFamily": "'Inconsolata for Powerline', monospace",
 "editor.fontSize": 17,
 "editor.lineHeight": 24.65,
 "editor.letterSpacing": 0.5,

@@ -49,6 +49,11 @@
         "label": "nekonight storm",
         "uiTheme": "vs-dark",
         "path": "./themes/nekonight-storm.json"
+      },
+      {
+        "label": "nekonight deep ocean",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nekonight-deep-ocean.json"
       }
     ]
   }
