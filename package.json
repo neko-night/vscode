@@ -2,7 +2,7 @@
   "name": "nekonight",
   "displayName": "nekonight ",
   "description": "✨ Looking for a theme that fits your vibe? Whether you're into dark mode, light mode, or something in between, this NekoNight has got you covered. For snappy performance, it's a buffet of color schemes for every taste and mood. 🍭",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "publisher": "BrunoCiccarino",
   "author": "Bruno Ciccarino",
   "icon": "icon.png",
@@ -43,7 +43,11 @@
     "2077",
     "color", 
     "best themes",
-    "Dope"
+    "Dope",
+    "color-theme",
+    "vue-theme",
+    "react",
+    "reactjs"
 ],
   "contributes": {
     "themes": [

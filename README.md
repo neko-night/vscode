@@ -27,6 +27,7 @@ Looking for a theme that fits your vibe? Whether you're into dark mode, light mo
 - nekonight 
 - nekonight-storm
 - nekonight-deep-ocean
+- nekonight-moon
 
 ### 🚀 Nekonight 
 
@@ -159,3 +160,10 @@ That said, there's a bunch of ways you can contribute to this project, like by:
 - [ ] adding an documentation
 - [ ] Start creating the other themes in the pack
 - [ ] Add syntax highlighting for less used languages ​​in vscode like scala, lisp, haskell, etc...
+  
+
+### 👏 Acknowledgements 
+
+- [Visual Studio Code TokyoNight](https://github.com/enkia/tokyo-night-vscode-theme)
+- [tokyonight.nvim](https://github.com/folke/tokyonight.nvim)
+- [jetbrains material theme](https://github.com/ChrisRM/material-theme-jetbrains)
