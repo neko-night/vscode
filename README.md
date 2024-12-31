@@ -167,3 +167,5 @@ That said, there's a bunch of ways you can contribute to this project, like by:
 - [Visual Studio Code TokyoNight](https://github.com/enkia/tokyo-night-vscode-theme)
 - [tokyonight.nvim](https://github.com/folke/tokyonight.nvim)
 - [jetbrains material theme](https://github.com/ChrisRM/material-theme-jetbrains)
+  
+<p align="center">Copyright © 2024 Bruno Ciccarino</p>
