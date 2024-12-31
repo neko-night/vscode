@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://marketplace.visualstudio.com/items?itemName=jdinhlife.gruvbox">
+  <a href="https://marketplace.visualstudio.com/items?itemName=BrunoCiccarino.nekonight">
     <img src="./icon.png" width="600" height="400">
   </a>
   <br>
