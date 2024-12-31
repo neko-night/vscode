@@ -148,7 +148,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#FAD000"
 			}
 		},
 		{
@@ -715,6 +715,209 @@
 			],
 			"settings": {
 				"foreground": "#EEFFFF"
+			}
+		},
+        {
+			"name": "[JAVASCRIPT] - Color for Storage Type Function",
+			"scope": "source.js storage.type.function",
+			"settings": {
+				"foreground": "#FB94FF"
+			}
+		},
+		{
+			"name": "[JAVASCRIPT] - Color for Variable Language",
+			"scope": "variable.language, entity.name.type.class.js",
+			"settings": {
+				"foreground": "#FB94FF"
+			}
+		},
+		{
+			"name": "[JAVASCRIPT] - Color for Inherited Component",
+			"scope": ["entity.other.inherited-class"],
+			"settings": {
+				"foreground": "#FFEE80"
+			}
+		},
+		{
+			"name": "[JAVASCRIPT] - Color for React Extends keyword",
+			"scope": ["storage.type.extends.js", "storage.type.class.jsdoc"],
+			"settings": {
+				"foreground": "#FF9D00"
+			}
+		},
+		{
+			"name": "[JAVASCRIPT] — Docs Keywords",
+			"scope": "punctuation.definition.block.tag.jsdoc",
+			"settings": {
+				"foreground": "#FF9D00"
+			}
+		},
+		{
+			"name": "[JAVASCRIPT] — Doc Var Types",
+			"scope": ["variable.other.jsdoc", "entity.name.type.instance.jsdoc"],
+			"settings": {
+				"foreground": "#9EFFFF"
+			}
+		},
+		{
+			"name": "[JAVASCRIPT] — Var Types",
+			"scope": ["variable.other.constant"],
+			"settings": {
+				"foreground": "#9EFFFF"
+			}
+		},
+		{
+			"name": "[JAVASCRIPT REACT] — JSX HTML",
+			"scope": ["punctuation.definition.tag.begin.js", "punctuation.definition.tag.end.js"],
+			"settings": {
+				"foreground": "#9EFFFF"
+			}
+		},
+		{
+			"name": "[JAVASCRIPT REACT] — JSX HTML Children Text",
+			"scope": "meta.jsx.children.js",
+			"settings": {
+				"foreground": "#FFFFFF"
+			}
+		},
+		{
+			"name": "[JAVASCRIPT] — Storage types",
+			"scope": ["storage.type", "storage.type.class", "storage.modifier", "keyword.control", "keyword.operator"],
+			"settings": {
+				"foreground": "#FF9D00"
+			}
+		},
+		{
+			"name": "[JAVASCRIPT] — Docs Useless stuff",
+			"scope": "punctuation.definition.bracket.curly",
+			"settings": {
+				"foreground": "#494685"
+			}
+		},
+		{
+			"name": "Typescript React Assignment Operator",
+			"scope": ["keyword.operator.assignment.tsx", "keyword.operator.assignment.jsx"],
+			"settings": {
+				"foreground": "#FF9D00"
+			}
+		},
+		{
+			"name": "[JAVASCRIPT] Keyword Operator Assignment",
+			"scope": "keyword.operator.assignment",
+			"settings": {
+				"foreground": "#FF9D00"
+			}
+		},
+		{
+			"name": "[JAVASCRIPT] Typescript/React Children",
+			"scope": "meta.jsx.children.tsx",
+			"settings": {
+				"foreground": "#FFFFFF"
+			}
+		},
+		{
+			"name": "[JAVASCRIPT] - Object keys",
+			"scope": "meta.object-literal.key.js",
+			"settings": {
+				"foreground": "#80FFBB"
+			}
+		},
+		{
+			"name": "Typescript/React Classnames and Modules",
+			"scope": [
+				"entity.name.type.class.tsx",
+				"entity.name.type.class.jsx",
+				"variable.other.readwrite.alias.tsx",
+				"variable.other.readwrite.tsx",
+				"variable.other.readwrite.alias.ts",
+				"variable.other.readwrite.alias.jsx",
+				"variable.other.readwrite.alias.js",
+				"variable.other.object.tsx",
+				"variable.other.object.jsx",
+				"variable.other.object",
+				"support.class.component.tsx",
+				"support.class.component.jsx",
+				"entity.name.type.tsx",
+				"entity.name.type.jsx",
+				"variable.other.readwrite",
+				"variable.other.object.js"
+			],
+			"settings": {
+				"foreground": "#9EFFFF"
+			}
+		},
+		{
+			"name": "[JAVASCRIPT] - .something",
+			"scope": ["variable.other.property", "variable.other.object.property"],
+			"settings": {
+				"foreground": "#FFEE80"
+			}
+		},
+		{
+			"name": "[JAVASCRIPT] - Color for Text inside JSX",
+			"scope": "JSXNested",
+			"settings": {
+				"foreground": "#FFFFFF"
+			}
+		},
+		{
+			"name": "[JAVASCRIPT] - Parameters",
+			"scope": ["variable.parameter"],
+			"settings": {
+				"foreground": "#9EFFFF"
+			}
+		},
+		{
+			"name": "[PYTHON] - Color for Self Argument",
+			"scope": "variable.parameter.function.language.special.self.python",
+			"settings": {
+				"foreground": "#9EFFFF"
+			}
+		},
+		{
+			"name": "[PYTHON] - Functions",
+			"scope": [
+				"meta.function-call.python",
+				"meta.function-call.generic.python",
+				"support.function.builtin.python"
+			],
+			"settings": {
+				"foreground": "#FAD000"
+			}
+		},
+		{
+			"name": "[TYPESCRIPT] - Color for Entity Name Type",
+			"scope": "source.ts entity.name.type",
+			"settings": {
+				"foreground": "#80FFBB"
+			}
+		},
+		{
+			"name": "[TYPESCRIPT] - Color for Keyword",
+			"scope": "source.ts keyword",
+			"settings": {
+				"foreground": "#FAD000"
+			}
+		},
+		{
+			"name": "[TYPESCRIPT] - Color for Punctuation Parameters",
+			"scope": "source.ts punctuation.definition.parameters",
+			"settings": {
+				"foreground": "#E1EFFF"
+			}
+		},
+		{
+			"name": "[TYPESCRIPT] - Color for Punctuation Arrow Parameters",
+			"scope": "meta.arrow.ts punctuation.definition.parameters",
+			"settings": {
+				"foreground": "#FFEE80"
+			}
+		},
+		{
+			"name": "[TYPESCRIPT] - Color for Storage",
+			"scope": "source.ts storage",
+			"settings": {
+				"foreground": "#9EFFFF"
 			}
 		}
 	]
