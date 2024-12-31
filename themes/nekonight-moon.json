@@ -92,14 +92,24 @@
 		"tab.activeBackground": "#222436",
 		"tab.inactiveBackground": "#191B29",
 		"tab.border": "#222436",
-		"editor.snippetTabstopHighlightBackground": "#6943ff62",
+		
+        "editor.snippetTabstopHighlightBackground": "#6943ff62",
 		"editor.snippetTabstopHighlightBorder": "#6943ff62",
 		"editor.snippetFinalTabstopHighlightBackground": "#6943ff62",
 		"editor.snippetFinalTabstopHighlightBorder": "#6943ff62",
 		"editorGroupHeader.border": "#1d1d21",
 		"editorGroupHeader.tabsBackground": "#222436",
-		"editorGroupHeader.tabsBorder": "#ff787800"
-	},
+		"editorGroupHeader.tabsBorder": "#ff787800",
+        
+        "notifications.background": "#222436",
+        "notifications.foreground": "#403f53",
+        "notificationLink.foreground": "#994cc3",
+        "notifications.border": "#CCCCCC",
+        "notificationCenter.border": "#CCCCCC",
+        "notificationToast.border": "#CCCCCC",
+        "notificationCenterHeader.foreground": "#403f53",
+        "notificationCenterHeader.background": "#222436"
+    },
 	"tokenColors": [
 		{
 			"name": "Comment",

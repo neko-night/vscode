@@ -97,7 +97,16 @@
 		"editor.snippetFinalTabstopHighlightBorder": "#6943ff62",
 		"editorGroupHeader.border": "#1d1d21",
 		"editorGroupHeader.tabsBackground": "#0F111A",
-		"editorGroupHeader.tabsBorder": "#ff787800"
+		"editorGroupHeader.tabsBorder": "#ff787800",
+
+        "notifications.background": "#0F111A",
+        "notifications.foreground": "#403f53",
+        "notificationLink.foreground": "#994cc3",
+        "notifications.border": "#CCCCCC",
+        "notificationCenter.border": "#CCCCCC",
+        "notificationToast.border": "#CCCCCC",
+        "notificationCenterHeader.foreground": "#403f53",
+        "notificationCenterHeader.background": "#0F111A"
 	},
 	"tokenColors": [
 		{
