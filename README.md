@@ -1,4 +1,3 @@
-# nekonight
 <h1 align="center">
   <br>
   <a href="https://marketplace.visualstudio.com/items?itemName=jdinhlife.gruvbox">
