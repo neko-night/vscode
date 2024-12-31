@@ -44,6 +44,22 @@ Looking for a theme that fits your vibe? Whether you're into dark mode, light mo
       <img src="./img/nekonight-vscode-storm-2.jpg" />
     </td>
     </tr>
+        <tr>
+    <td width="50%">
+      <img src="./img/deepocean.jpg" />
+    </td>
+    <td width="50%">
+      <img src="./img/deepocean-1.jpg" />
+    </td>
+    </tr>
+        <tr>
+    <td width="50%">
+      <img src="./img/deepocean-2.jpg" />
+    </td>
+    <td width="50%">
+      <img src="./img/deepocean-3.jpg" />
+    </td>
+    </tr>
 </table>
 
 ### ⚙️ Suggested configuration
