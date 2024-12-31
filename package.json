@@ -61,6 +61,11 @@
         "label": "nekonight deep ocean",
         "uiTheme": "vs-dark",
         "path": "./themes/nekonight-deep-ocean.json"
+      },
+      {
+        "label": "nekonight moon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nekonight-moon.json"
       }
     ]
   }
