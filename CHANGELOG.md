@@ -6,7 +6,7 @@
 ### Added
 
 - nekonight deep ocean
-
+- list hover highlights
 
 ## [0.0.2] 
 
