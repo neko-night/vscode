@@ -1,5 +1,11 @@
 # Change Log
 
+## [0.0.7]
+
+### Added
+
+- nekonight day
+- nekonight aurora
 
 ## [0.0.3] 
 

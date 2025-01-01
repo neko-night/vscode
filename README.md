@@ -28,6 +28,8 @@ Looking for a theme that fits your vibe? Whether you're into dark mode, light mo
 - nekonight-storm
 - nekonight-deep-ocean
 - nekonight-moon
+- nekonight-aurora
+- nekonight-day
 
 ### 🚀 Nekonight 
 
@@ -94,6 +96,38 @@ Looking for a theme that fits your vibe? Whether you're into dark mode, light mo
     </td>
     <td width="50%">
       <img src="./img/nekonight-moon3.jpg" />
+    </td>
+    </tr>
+    <tr>
+    <td width="50%">
+      <img src="./img/aurora.jpg" />
+    </td>
+    <td width="50%">
+      <img src="./img/aurora1.jpg" />
+    </td>
+    </tr>
+        <tr>
+    <td width="50%">
+      <img src="./img/aurora2.jpg" />
+    </td>
+    <td width="50%">
+      <img src="./img/aurora3.jpg" />
+    </td>
+    </tr>
+        <tr>
+    <td width="50%">
+      <img src="./img/day.jpg" />
+    </td>
+    <td width="50%">
+      <img src="./img/day1.jpg" />
+    </td>
+    </tr>
+        <tr>
+    <td width="50%">
+      <img src="./img/day2.jpg" />
+    </td>
+    <td width="50%">
+      <img src="./img/day3.jpg" />
     </td>
     </tr>
 </table>

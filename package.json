@@ -2,7 +2,7 @@
   "name": "nekonight",
   "displayName": "nekonight ",
   "description": "✨ Looking for a theme that fits your vibe? Whether you're into dark mode, light mode, or something in between, this NekoNight has got you covered. For snappy performance, it's a buffet of color schemes for every taste and mood. 🍭",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "publisher": "BrunoCiccarino",
   "author": "Bruno Ciccarino",
   "icon": "icon.png",
@@ -70,6 +70,16 @@
         "label": "nekonight moon",
         "uiTheme": "vs-dark",
         "path": "./themes/nekonight-moon.json"
+      },
+      {
+        "label": "nekonight day",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nekonight-day.json"
+      },
+      {
+        "label": "nekonight aurora",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nekonight-aurora.json"
       }
     ]
   }

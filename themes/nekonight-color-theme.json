@@ -99,17 +99,31 @@
 		
 		"titleBar.activeBackground": "#1b1524",
 		"titleBar.inactiveBackground": "#1b1524",
+
 		"tab.activeBackground": "#2a2139",
 		"tab.inactiveBackground": "#1b1524",
 		"tab.border": "#2a2139",
+		"tab.activeForeground": "#9EFFFF",
+        "tab.hoverForeground": "#dadce3",
+        "tab.hoverBackground": "#222436",
+        "tab.activeBorder": "#9EFFFF",
+        "tab.selectedBackground": "#363c4d",
+        "tab.inactiveForeground": "#9EFFFF",
+        "tab.unfocusedActiveForeground": "#363c4d",
+        "tab.unfocusedInactiveForeground": "#363c4d",
+        "tab.unfocusedHoverForeground": "#363c4d",
+        "tab.activeModifiedBorder": "#e6e7ed",
+        "tab.inactiveModifiedBorder": "#e6e7ed",
+        "tab.unfocusedActiveBorder": "#9da0ab",
+        "tab.lastPinnedBorder": "#dadbe0",
 		
 		"notifications.background": "#2a2139",
-    	"notifications.foreground": "#403f53",
+    	"notifications.foreground": "#9EFFFF",
     	"notificationLink.foreground": "#994cc3",
     	"notifications.border": "#CCCCCC",
     	"notificationCenter.border": "#CCCCCC",
     	"notificationToast.border": "#CCCCCC",
-    	"notificationCenterHeader.foreground": "#403f53",
+    	"notificationCenterHeader.foreground": "#9EFFFF",
     	"notificationCenterHeader.background": "#2a2139"
 	},
 	"tokenColors": [
