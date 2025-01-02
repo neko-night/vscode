@@ -2,9 +2,9 @@
 	"author": "Bruno Ciccarino",
 	"name": "nekonight",
 	"colors": {
-		"editor.background": "#2a2139",
+		"editor.background": "#231b2f",
 		"editor.foreground": "#a9b1d6",
-		"editorGutter.background": "#2a2139",
+		"editorGutter.background": "#231b2f",
 		"editorLineNumber.foreground": "#858585",
         "editorCursor.foreground": "#b3b4b2",
         "editorCursor.background": "#090028",
@@ -53,7 +53,7 @@
 		"editor.snippetFinalTabstopHighlightBackground": "#6943ff62",
 		"editor.snippetFinalTabstopHighlightBorder": "#6943ff62",
 		"editorGroupHeader.border": "#1d1d21",
-		"editorGroupHeader.tabsBackground": "#2a2139",
+		"editorGroupHeader.tabsBackground": "#231b2f",
 		"editorGroupHeader.tabsBorder": "#ff787800",
 
 		"statusBar.background": "#1b1524",
@@ -100,9 +100,9 @@
 		"titleBar.activeBackground": "#1b1524",
 		"titleBar.inactiveBackground": "#1b1524",
 
-		"tab.activeBackground": "#2a2139",
+		"tab.activeBackground": "#231b2f",
 		"tab.inactiveBackground": "#1b1524",
-		"tab.border": "#2a2139",
+		"tab.border": "#231b2f",
 		"tab.activeForeground": "#9EFFFF",
         "tab.hoverForeground": "#dadce3",
         "tab.hoverBackground": "#222436",
@@ -117,14 +117,14 @@
         "tab.unfocusedActiveBorder": "#9da0ab",
         "tab.lastPinnedBorder": "#dadbe0",
 		
-		"notifications.background": "#2a2139",
+		"notifications.background": "#231b2f",
     	"notifications.foreground": "#9EFFFF",
     	"notificationLink.foreground": "#994cc3",
     	"notifications.border": "#CCCCCC",
     	"notificationCenter.border": "#CCCCCC",
     	"notificationToast.border": "#CCCCCC",
     	"notificationCenterHeader.foreground": "#9EFFFF",
-    	"notificationCenterHeader.background": "#2a2139"
+    	"notificationCenterHeader.background": "#231b2f"
 	},
 	"tokenColors": [
 		{
