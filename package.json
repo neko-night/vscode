@@ -22,11 +22,21 @@
   "keywords": [
     "retro",
     "80s",
+    "Blue",
+    "Indie",
+    "Retro",
+    "Alternative",
+    "Night",
+    "Cobalt",
+    "Ocean",
+    "Ocean Next",
     "nekonight",
     "one dark",
     "onedark",
     "one dark pro",
     "onedark pro",
+    "onedark deep",
+    "one dark deep",
     "theme",
     "atom",
     "shades of purple",
@@ -47,7 +57,10 @@
     "color-theme",
     "vue-theme",
     "react",
-    "reactjs"
+    "reactjs",
+    "vaporwave",
+    "synthwave",
+    "fluoromachine"
 ],
   "contributes": {
     "themes": [
