@@ -74,7 +74,7 @@ Looking for a theme that fits your vibe? Whether you're into dark mode, light mo
       <img src="./img/deepocean-1.jpg" />
     </td>
     </tr>
-        <tr>
+      <tr>
     <td width="50%">
       <img src="./img/deepocean-2.jpg" />
     </td>
@@ -128,6 +128,22 @@ Looking for a theme that fits your vibe? Whether you're into dark mode, light mo
     </td>
     <td width="50%">
       <img src="./img/day3.jpg" />
+    </td>
+    </tr>
+            <tr>
+    <td width="50%">
+      <img src="./img/onedark-deep.jpg" />
+    </td>
+    <td width="50%">
+      <img src="./img/onedark-deep1.jpg" />
+    </td>
+    </tr>
+        <tr>
+    <td width="50%">
+      <img src="./img/onedark-deep2.jpg" />
+    </td>
+    <td width="50%">
+      <img src="./img/onedark-deep3.jpg" />
     </td>
     </tr>
 </table>
