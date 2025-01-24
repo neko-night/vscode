@@ -130,7 +130,7 @@ Looking for a theme that fits your vibe? Whether you're into dark mode, light mo
       <img src="./img/day3.jpg" />
     </td>
     </tr>
-            <tr>
+    <tr>
     <td width="50%">
       <img src="./img/onedark-deep.jpg" />
     </td>
@@ -144,6 +144,22 @@ Looking for a theme that fits your vibe? Whether you're into dark mode, light mo
     </td>
     <td width="50%">
       <img src="./img/onedark-deep3.jpg" />
+    </td>
+    </tr>
+    <tr>
+    <td width="50%">
+      <img src="./img/sky-blue.jpg" />
+    </td>
+    <td width="50%">
+      <img src="./img/sky-blue-1.jpg" />
+    </td>
+    </tr>
+        <tr>
+    <td width="50%">
+      <img src="./img/sky-blue-2.jpg" />
+    </td>
+    <td width="50%">
+      <img src="./img/sky-blue-3.jpg" />
     </td>
     </tr>
 </table>

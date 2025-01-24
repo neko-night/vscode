@@ -2,9 +2,9 @@
 	"author": "Bruno Ciccarino",
 	"name": "nekonight onedark deep",
 	"colors": {
-		"editor.background": "#1a212e",
+		"editor.background": "#242D37",
 		"editor.foreground": "#a9b1d6",
-		"editorGutter.background": "#1a212e",
+		"editorGutter.background": "#242D37",
 		"editorLineNumber.foreground": "#858585",
         "editorCursor.foreground": "#b3b4b2",
         "editorCursor.background": "#090028",
@@ -90,12 +90,12 @@
 		"titleBar.activeBackground": "#21283b",
 		"titleBar.inactiveBackground": "#21283b",
 		
-		"tab.activeBackground": "#1a212e",
+		"tab.activeBackground": "#242D37",
 		"tab.inactiveBackground": "#21283b",
-		"tab.border": "#1a212e",
+		"tab.border": "#242D37",
 		"tab.activeForeground": "#9EFFFF",
         "tab.hoverForeground": "#dadce3",
-        "tab.hoverBackground": "#1a212e",
+        "tab.hoverBackground": "#242D37",
         "tab.activeBorder": "#9EFFFF",
         "tab.selectedBackground": "#363c4d",
         "tab.inactiveForeground": "#9EFFFF",
@@ -113,17 +113,17 @@
 		"editor.snippetFinalTabstopHighlightBackground": "#6943ff62",
 		"editor.snippetFinalTabstopHighlightBorder": "#6943ff62",
 		"editorGroupHeader.border": "#1d1d21",
-		"editorGroupHeader.tabsBackground": "#1a212e",
+		"editorGroupHeader.tabsBackground": "#242D37",
 		"editorGroupHeader.tabsBorder": "#9EFFFF",
         
-        "notifications.background": "#1a212e",
+        "notifications.background": "#242D37",
         "notifications.foreground": "#9EFFFF",
         "notificationLink.foreground": "#994cc3",
         "notifications.border": "#CCCCCC",
         "notificationCenter.border": "#CCCCCC",
         "notificationToast.border": "#CCCCCC",
         "notificationCenterHeader.foreground": "#9EFFFF",
-        "notificationCenterHeader.background": "#1a212e"
+        "notificationCenterHeader.background": "#242D37"
     },
 	"tokenColors": [
 		{
