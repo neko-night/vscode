@@ -162,6 +162,22 @@ Looking for a theme that fits your vibe? Whether you're into dark mode, light mo
       <img src="./img/sky-blue-3.jpg" />
     </td>
     </tr>
+    <tr>
+    <td width="50%">
+      <img src="./img/sheep.jpg" />
+    </td>
+    <td width="50%">
+      <img src="./img/sheep-01.jpg" />
+    </td>
+    </tr>
+        <tr>
+    <td width="50%">
+      <img src="./img/sheep-02.jpg" />
+    </td>
+    <td width="50%">
+      <img src="./img/sheep-03.jpg" />
+    </td>
+    </tr>
 </table>
 
 ### ⚙️ Suggested configuration

@@ -124,7 +124,7 @@
         "notificationCenterHeader.background": "#1b1e2d"
 
 	},
-	"tokenColors": [
+"tokenColors": [
 		{
 			"name": "Comment",
 			"scope": [
@@ -133,7 +133,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#565f89"
+				"foreground": "#546E7A"
 			}
 		},
 		{
@@ -173,7 +173,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#FAD000"
+				"foreground": "#309975"
 			}
 		},
 		{
@@ -267,7 +267,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#9ece6a"
+				"foreground": "#C3E88D"
 			}
 		},
 		{
@@ -283,7 +283,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#b358b3"
 			}
 		},
 		{
@@ -367,7 +367,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FFCB6B"
+				"foreground": "#b358b3"
 			}
 		},
 		{
@@ -376,7 +376,7 @@
 				"entity.other.attribute-name.class"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#b358b3"
 			}
 		},
 		{
@@ -480,7 +480,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#b358b3"
 			}
 		},
 		{
@@ -673,7 +673,7 @@
 				"constant.other.reference.link.markdown"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#b358b3"
 			}
 		},
 		{
@@ -742,7 +742,7 @@
 				"foreground": "#EEFFFF"
 			}
 		},
-		{
+        {
 			"name": "[JAVASCRIPT] - Color for Storage Type Function",
 			"scope": "source.js storage.type.function",
 			"settings": {
@@ -760,21 +760,21 @@
 			"name": "[JAVASCRIPT] - Color for Inherited Component",
 			"scope": ["entity.other.inherited-class"],
 			"settings": {
-				"foreground": "#FFEE80"
+				"foreground": "#e9beff"
 			}
 		},
 		{
 			"name": "[JAVASCRIPT] - Color for React Extends keyword",
 			"scope": ["storage.type.extends.js", "storage.type.class.jsdoc"],
 			"settings": {
-				"foreground": "#FF9D00"
+				"foreground": "#e9beff"
 			}
 		},
 		{
 			"name": "[JAVASCRIPT] — Docs Keywords",
 			"scope": "punctuation.definition.block.tag.jsdoc",
 			"settings": {
-				"foreground": "#FF9D00"
+				"foreground": "#e9beff"
 			}
 		},
 		{
@@ -809,7 +809,7 @@
 			"name": "[JAVASCRIPT] — Storage types",
 			"scope": ["storage.type", "storage.type.class", "storage.modifier", "keyword.control", "keyword.operator"],
 			"settings": {
-				"foreground": "#FF9D00"
+				"foreground": "#e9beff"
 			}
 		},
 		{
@@ -823,14 +823,14 @@
 			"name": "Typescript React Assignment Operator",
 			"scope": ["keyword.operator.assignment.tsx", "keyword.operator.assignment.jsx"],
 			"settings": {
-				"foreground": "#FF9D00"
+				"foreground": "#e9beff"
 			}
 		},
 		{
 			"name": "[JAVASCRIPT] Keyword Operator Assignment",
 			"scope": "keyword.operator.assignment",
 			"settings": {
-				"foreground": "#FF9D00"
+				"foreground": "#e9beff"
 			}
 		},
 		{
@@ -875,7 +875,7 @@
 			"name": "[JAVASCRIPT] - .something",
 			"scope": ["variable.other.property", "variable.other.object.property"],
 			"settings": {
-				"foreground": "#FFEE80"
+				"foreground": "#e9beff"
 			}
 		},
 		{
@@ -907,7 +907,7 @@
 				"support.function.builtin.python"
 			],
 			"settings": {
-				"foreground": "#FAD000"
+				"foreground": "#309975"
 			}
 		},
 		{
@@ -921,7 +921,7 @@
 			"name": "[TYPESCRIPT] - Color for Keyword",
 			"scope": "source.ts keyword",
 			"settings": {
-				"foreground": "#FAD000"
+				"foreground": "#309975"
 			}
 		},
 		{
@@ -935,7 +935,7 @@
 			"name": "[TYPESCRIPT] - Color for Punctuation Arrow Parameters",
 			"scope": "meta.arrow.ts punctuation.definition.parameters",
 			"settings": {
-				"foreground": "#FFEE80"
+				"foreground": "#e9beff"
 			}
 		},
 		{

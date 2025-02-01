@@ -2,7 +2,7 @@
   "name": "nekonight",
   "displayName": "nekonight ",
   "description": "✨ Looking for a theme that fits your vibe? Whether you're into dark mode, light mode, or something in between, this NekoNight has got you covered. For snappy performance, it's a buffet of color schemes for every taste and mood. 🍭",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "publisher": "BrunoCiccarino",
   "author": "Bruno Ciccarino",
   "icon": "icon.png",
@@ -103,6 +103,11 @@
         "label": "nekonight onedark deep",
         "uiTheme": "vs-dark",
         "path": "./themes/nekonight-onedark-deep.json"
+      },
+      {
+        "label": "nekonight sheep",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nekonight-sheep.json"
       }
     ]
   }
