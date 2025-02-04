@@ -30,6 +30,8 @@ Looking for a theme that fits your vibe? Whether you're into dark mode, light mo
 - nekonight-moon
 - nekonight-aurora
 - nekonight-day
+- nekonight-sky-blue
+- nekonight-sexy
 
 ### 🚀 Nekonight 
 
