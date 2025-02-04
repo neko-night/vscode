@@ -252,4 +252,4 @@ That said, there's a bunch of ways you can contribute to this project, like by:
 - [tokyonight.nvim](https://github.com/folke/tokyonight.nvim)
 - [jetbrains material theme](https://github.com/ChrisRM/material-theme-jetbrains)
   
-<p align="center">Copyright © 2024 Bruno Ciccarino</p>
+<p align="center">Copyright © 2024 2025 Bruno Ciccarino</p>
