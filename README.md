@@ -180,6 +180,22 @@ Looking for a theme that fits your vibe? Whether you're into dark mode, light mo
       <img src="./img/sheep-03.jpg" />
     </td>
     </tr>
+        <tr>
+    <td width="50%">
+      <img src="./img/sexy.jpg" />
+    </td>
+    <td width="50%">
+      <img src="./img/sexy-1.jpg" />
+    </td>
+    </tr>
+        <tr>
+    <td width="50%">
+      <img src="./img/sexy-2.jpg" />
+    </td>
+    <td width="50%">
+      <img src="./img/sexy-3.jpg" />
+    </td>
+    </tr>
 </table>
 
 ### ⚙️ Suggested configuration
