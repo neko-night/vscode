@@ -32,6 +32,7 @@ Looking for a theme that fits your vibe? Whether you're into dark mode, light mo
 - nekonight-day
 - nekonight-sky-blue
 - nekonight-sexy
+- nekonight-purple-love
 
 ### 🚀 Nekonight 
 
@@ -41,31 +42,7 @@ Looking for a theme that fits your vibe? Whether you're into dark mode, light mo
       <img src="./img/nekonight-vscode.jpg" />
     </td>
     <td width="50%">
-      <img src="./img/nekonight-vscode-1.jpg" />
-    </td>
-    </tr>
-    <tr>
-    <td width="50%">
-      <img src="./img/nekonight-vscode-2.jpg" />
-    </td>
-    <td width="50%">
-      <img src="./img/nekonight-vscode-3.jpg" />
-    </td>
-    </tr>
-    <tr>
-    <td width="50%">
-      <img src="./img/nekonight-vscode-storm.jpg" />
-    </td>
-    <td width="50%">
-      <img src="./img/nekonight-vscode-storm-1.jpg" />
-    </td>
-    </tr>
-        <tr>
-    <td width="50%">
-      <img src="./img/nekonight-vscode-storm-2.jpg" />
-    </td>
-    <td width="50%">
-      <img src="./img/nekonight-vscode-storm-2.jpg" />
+      <img src="./img/day.jpg" />
     </td>
     </tr>
     <tr>
@@ -73,79 +50,23 @@ Looking for a theme that fits your vibe? Whether you're into dark mode, light mo
       <img src="./img/deepocean.jpg" />
     </td>
     <td width="50%">
-      <img src="./img/deepocean-1.jpg" />
-    </td>
-    </tr>
-      <tr>
-    <td width="50%">
-      <img src="./img/deepocean-2.jpg" />
-    </td>
-    <td width="50%">
-      <img src="./img/deepocean-3.jpg" />
-    </td>
-    </tr>
-    <tr>
-    <td width="50%">
       <img src="./img/nekonight-moon.jpg" />
     </td>
-    <td width="50%">
-      <img src="./img/nekonight-moon1.jpg" />
-    </td>
-    </tr>
-        <tr>
-    <td width="50%">
-      <img src="./img/nekonight-moon2.jpg" />
-    </td>
-    <td width="50%">
-      <img src="./img/nekonight-moon3.jpg" />
-    </td>
     </tr>
     <tr>
+    <td width="50%">
+      <img src="./img/nekonight-vscode-storm.jpg" />
+    </td>
     <td width="50%">
       <img src="./img/aurora.jpg" />
     </td>
-    <td width="50%">
-      <img src="./img/aurora1.jpg" />
-    </td>
     </tr>
         <tr>
-    <td width="50%">
-      <img src="./img/aurora2.jpg" />
-    </td>
-    <td width="50%">
-      <img src="./img/aurora3.jpg" />
-    </td>
-    </tr>
-        <tr>
-    <td width="50%">
-      <img src="./img/day.jpg" />
-    </td>
-    <td width="50%">
-      <img src="./img/day1.jpg" />
-    </td>
-    </tr>
-        <tr>
-    <td width="50%">
-      <img src="./img/day2.jpg" />
-    </td>
-    <td width="50%">
-      <img src="./img/day3.jpg" />
-    </td>
-    </tr>
-    <tr>
     <td width="50%">
       <img src="./img/onedark-deep.jpg" />
     </td>
     <td width="50%">
-      <img src="./img/onedark-deep1.jpg" />
-    </td>
-    </tr>
-        <tr>
-    <td width="50%">
-      <img src="./img/onedark-deep2.jpg" />
-    </td>
-    <td width="50%">
-      <img src="./img/onedark-deep3.jpg" />
+      <img src="./img/sexy.jpg" />
     </td>
     </tr>
     <tr>
@@ -153,47 +74,12 @@ Looking for a theme that fits your vibe? Whether you're into dark mode, light mo
       <img src="./img/sky-blue.jpg" />
     </td>
     <td width="50%">
-      <img src="./img/sky-blue-1.jpg" />
-    </td>
-    </tr>
-        <tr>
-    <td width="50%">
-      <img src="./img/sky-blue-2.jpg" />
-    </td>
-    <td width="50%">
-      <img src="./img/sky-blue-3.jpg" />
-    </td>
-    </tr>
-    <tr>
-    <td width="50%">
       <img src="./img/sheep.jpg" />
     </td>
-    <td width="50%">
-      <img src="./img/sheep-01.jpg" />
-    </td>
     </tr>
-        <tr>
+      <tr>
     <td width="50%">
-      <img src="./img/sheep-02.jpg" />
-    </td>
-    <td width="50%">
-      <img src="./img/sheep-03.jpg" />
-    </td>
-    </tr>
-        <tr>
-    <td width="50%">
-      <img src="./img/sexy.jpg" />
-    </td>
-    <td width="50%">
-      <img src="./img/sexy-1.jpg" />
-    </td>
-    </tr>
-        <tr>
-    <td width="50%">
-      <img src="./img/sexy-2.jpg" />
-    </td>
-    <td width="50%">
-      <img src="./img/sexy-3.jpg" />
+      <img src="./img/purple-love.png" />
     </td>
     </tr>
 </table>

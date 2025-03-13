@@ -2,7 +2,7 @@
   "name": "nekonight",
   "displayName": "nekonight ",
   "description": "✨ Looking for a theme that fits your vibe? Whether you're into dark mode, light mode, or something in between, this NekoNight has got you covered. For snappy performance, it's a buffet of color schemes for every taste and mood. 🍭",
-  "version": "0.1.9",
+  "version": "0.2.0",
   "publisher": "BrunoCiccarino",
   "author": "Bruno Ciccarino",
   "icon": "icon.jpg",
@@ -10,8 +10,8 @@
     "url": "https://github.com/neko-night/vscode/issues"
   },
   "repository": {
-      "type": "git",
-      "url": "https://github.com/neko-night/vscode"
+    "type": "git",
+    "url": "https://github.com/neko-night/vscode"
   },
   "engines": {
     "vscode": "^1.96.0"
@@ -51,7 +51,7 @@
     "zero",
     "monokai",
     "2077",
-    "color", 
+    "color",
     "best themes",
     "Dope",
     "color-theme",
@@ -61,7 +61,7 @@
     "vaporwave",
     "synthwave",
     "fluoromachine"
-],
+  ],
   "contributes": {
     "themes": [
       {
@@ -93,6 +93,11 @@
         "label": "nekonight moon",
         "uiTheme": "vs-dark",
         "path": "./themes/nekonight-moon.json"
+      },
+      {
+        "label": "nekonight purple love",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nekonight-purple-love.json"
       },
       {
         "label": "nekonight day",
